@@ -1,0 +1,24 @@
+{
+  "name": "jomquer",
+  "version": "0.1.0",
+  "description": "Jomquer - Una aplicación lista para ser publicada",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'Please specify how to run your application'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "jomquer",
+    "app"
+  ],
+  "author": "MDerbez",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MDerbez/Jomquer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MDerbez/Jomquer/issues"
+  },
+  "homepage": "https://github.com/MDerbez/Jomquer#readme"
+}
