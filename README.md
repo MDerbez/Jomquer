@@ -20,6 +20,15 @@ Jomquer es una aplicación que está lista para ser publicada y distribuida.
 - Versión inicial de Jomquer
 - Aplicación lista para distribución
 
+### Crear una nueva release
+Para crear una nueva release, puedes usar el script incluido:
+
+```bash
+./scripts/create-release.sh v0.2.0
+```
+
+O seguir las instrucciones detalladas en [RELEASE_GUIDE.md](RELEASE_GUIDE.md).
+
 ## Contribuir
 
 Si deseas contribuir a este proyecto, por favor:
